@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darvikaa/static/css/main.d683d8eb.css",
+    "main.js": "/darvikaa/static/js/main.cf239037.js",
+    "static/js/453.a756d639.chunk.js": "/darvikaa/static/js/453.a756d639.chunk.js",
+    "index.html": "/darvikaa/index.html",
+    "main.d683d8eb.css.map": "/darvikaa/static/css/main.d683d8eb.css.map",
+    "main.cf239037.js.map": "/darvikaa/static/js/main.cf239037.js.map",
+    "453.a756d639.chunk.js.map": "/darvikaa/static/js/453.a756d639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d683d8eb.css",
+    "static/js/main.cf239037.js"
+  ]
+}
